@@ -2,7 +2,7 @@
 ```bash
 > Initializing secure profile...
 > Access granted.
-
+```
 # 👨‍💻 About Me
 Name: Miriam Ewall-Wice
 Role: Cybersecurity Analyst | Threat Hunter | Security Engineer
